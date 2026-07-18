@@ -1,0 +1,4 @@
+check_name,customers,short_value,long_value,avg_difference
+Q2 main (long = 8-30 days),88202,7.73,10.11,2.38
+Q2 excluding capped 30-day orders (long = 8-29 days),85890,7.75,10.15,2.40
+Average order number (tenure stage),88202,13.93,13.79,-0.14

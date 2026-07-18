@@ -1,0 +1,6 @@
+interval_group,orders,customers,avg_items_pooled
+first,206209,206209,10.08
+same_day,66562,32504,7.00
+short,549627,90574,7.95
+middle,982597,142443,10.67
+long,1541088,203017,10.66

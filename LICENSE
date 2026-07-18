@@ -2,11 +2,6 @@ MIT License
 
 Copyright (c) 2026 Abhiraj Doad
 
-This license applies only to the original code in this repository (SQL scripts
-and Python notebook code). It does not apply to "The Instacart Online Grocery
-Shopping Dataset 2017" or to any data derived from it, including the files in
-data/processed/, which remain subject to Instacart's terms of use.
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights

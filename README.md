@@ -161,8 +161,8 @@ The summary tables in `data/processed/` are already included, so you can run the
 
 ```
 ├── README.md
-├── SUMMARY.md
-├── LICENSE                     # MIT, covers the code only                  # one-page business summary
+├── SUMMARY.md                  # one-page business summary
+├── LICENSE                     # MIT, covers the code only
 ├── requirements.txt
 ├── sql/                        # numbered PostgreSQL scripts
 ├── notebooks/
